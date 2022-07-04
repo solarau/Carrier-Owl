@@ -3,7 +3,9 @@ subject: 'cat:cs.*'
 
 keywords:
         parallel: 3
-        system: 3
+        language: 2
+        distributed: 3
+        database: 2
         crypt: 3
 
 # 通知の閾値
