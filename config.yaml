@@ -1,8 +1,9 @@
-subject: 'cat:cs.* OR cat:q-fin.*'
+subject: 'cat:cs.*'
+# subject: 'cat:cs.* OR cat:q-fin.*'
 
 keywords:
-        kaggle: 3
-        network: 3
+        parallel: 3
+        system: 3
         crypt: 3
 
 # 通知の閾値
