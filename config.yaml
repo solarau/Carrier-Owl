@@ -1,11 +1,9 @@
-# arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:q-fin.*'
 
-# 検索キーワード
 keywords:
         kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        network: 3
+        crypt: 3
 
 # 通知の閾値
 score_threshold: 0
