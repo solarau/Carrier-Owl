@@ -1,5 +1,6 @@
-subject: 'cat:cs.*'
-# subject: 'cat:cs.* OR cat:q-fin.*'
+
+# subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:q-fin.*'
 
 keywords:
         parallel: 3
@@ -8,5 +9,4 @@ keywords:
         database: 2
         crypt: 3
 
-# 通知の閾値
 score_threshold: 0
