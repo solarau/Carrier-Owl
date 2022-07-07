@@ -8,5 +8,10 @@ keywords:
         distributed: 3
         database: 2
         crypt: 3
+        simulation: 3
+        emulation: 3
+        analysis: 3
+        marcket: 2
+        trader: 3
 
 score_threshold: 0
