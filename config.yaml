@@ -7,7 +7,10 @@ keywords:
         language: 2
         distributed: 3
         database: 2
-        crypt: 3
+        crypt: 2
+        identity management: 3
+        authorization: 3
+        authentication: 3
         simulation: 3
         emulation: 3
         analysis: 3
