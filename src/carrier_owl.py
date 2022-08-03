@@ -117,7 +117,7 @@ def get_translated_text(from_lang: str, to_lang: str, from_text: str, driver) ->
     https://qiita.com/fujino-fpu/items/e94d4ff9e7a5784b2987
     '''
 
-    sleep_time = 1
+    sleep_time = 15
 
     # urlencode
     from_text = urllib.parse.quote(from_text)
